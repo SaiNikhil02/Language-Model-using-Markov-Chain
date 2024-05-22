@@ -15,7 +15,8 @@ This project is a language model that generates Sherlock Holmes stories using a 
 
 ## Introduction
 The Sherlock Holmes Story Generator uses a Markov Chain model to generate text based on the patterns found in the original Sherlock Holmes stories. This project showcases the power of Markov Chains in natural language processing and text generation.
-
+## DataSet  
+Dataset can be found in this link "/kaggle/input/sherlock-holmes-stories"
 ## Features
 - Generates new Sherlock Holmes stories based on the original dataset.
 - Simple and easy-to-understand implementation.
